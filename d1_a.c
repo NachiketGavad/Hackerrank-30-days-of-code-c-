@@ -7,7 +7,7 @@ int main() {
     int i = 4;
     double d = 4.0;
     char s[] = "HackerRank ";
-
+    //testing
     
     // Declare second integer, double, and String variables.
     int n1;
